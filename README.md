@@ -1,2 +1,3 @@
-# smartbuildings
-MySQL database which stores buildings equipped with sensors and provides data analytics functions such as damage estimates following earthquakes
+# SmartBuildings
+
+Learn more at [deluf.github.io/projects/smartbuildings/](https://deluf.github.io/projects/smartbuildings/)
